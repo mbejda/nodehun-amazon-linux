@@ -1,0 +1,130 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nodehun",
+        "scope": null,
+        "escapedName": "nodehun",
+        "name": "nodehun",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/ec2-user/environment/adStream-dev"
+    ]
+  ],
+  "_from": "nodehun@latest",
+  "_id": "nodehun@2.0.12",
+  "_inCache": true,
+  "_location": "/nodehun",
+  "_nodeVersion": "10.1.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nodehun_2.0.12_1526891081619_0.2228069053280477"
+  },
+  "_npmUser": {
+    "name": "wulf",
+    "email": "hk12@live.ca"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nodehun",
+    "scope": null,
+    "escapedName": "nodehun",
+    "name": "nodehun",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodehun/-/nodehun-2.0.12.tgz",
+  "_shasum": "be05a1eacea751f5873d5c227926d54765d5cf60",
+  "_shrinkwrap": null,
+  "_spec": "nodehun",
+  "_where": "/home/ec2-user/environment/adStream-dev",
+  "author": {
+    "name": "Nathan Sweet",
+    "email": "nathanjsweet@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanjsweet/nodehun/issues"
+  },
+  "contributors": [
+    {
+      "name": "Nathan Sweet",
+      "email": "nathanjsweet@gmail.com"
+    },
+    {
+      "name": "Haris Khan",
+      "email": "hk12@live.ca"
+    },
+    {
+      "name": "Titus Wormer",
+      "email": "tituswormer@gmail.com"
+    },
+    {
+      "name": "Espen Hovlandsdal",
+      "email": "espen@hovlandsdal.com"
+    },
+    {
+      "name": "Thomas Beverley",
+      "email": "tom.beverley101@gmail.com"
+    }
+  ],
+  "dependencies": {},
+  "description": "The Hunspell binding for nodejs that exposes as much of hunspell as possible and also adds new features. Hunspell is a first class spellcheck library used by Google, Apple, and Mozilla.",
+  "devDependencies": {
+    "dictionary-en-gb": "^1.0.2",
+    "dictionary-en-us": "^1.0.2",
+    "dictionary-nl": "^1.0.2",
+    "tape": "^4.6.0"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-lSCWx7PNsGbdVnBV3y1eJNnUZ4NXqboy+o8RtzQf/D4Xopjky9E70A+Q/ZKZwOs+0MYdq9HPnnDzjIEbA0Stcg==",
+    "shasum": "be05a1eacea751f5873d5c227926d54765d5cf60",
+    "tarball": "https://registry.npmjs.org/nodehun/-/nodehun-2.0.12.tgz",
+    "fileCount": 864,
+    "unpackedSize": 8085138,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbAoJLCRA9TVsSAnZWagAAjBAP/1DEtC+Ls9r+OXLGdRK/\n4MHMEMiHOjYjQ07elYXF7bPqq+wk0c4sxIJ/scizZIOHH+suwTghwCuf/rwn\nVY9kFwjcGvmWIeEe52CQrLhcw6Q0lQ+winNLma3R6Tl7+YQSPUoICocGMym9\nxAs8TTdLXxS+ELRCmBqTfrQwnyfrLY656/jwEklIgCE83f0oAtqQ8uuJx8U2\nqASQlcXc1jGaAwcoE/aEaBYdRUQdoodECbX0ezJmFq4CSVbyDicmRC80ksoT\nQC7FL2XCpp03B91QeCMmvHx7FfbGU2gKXwbB3O/D2Hy1KOlPANaCQECNy5ts\nvZhG9izebtyqJUHpQ5SH0U/fMwm64rd478FVPeswFCBpiljtVcmzyD1HbRQj\nzYGOouY/3/9GEIp5muRI1bhgVNqTlxcXuKkKvrFgU3j/woXf88fG9bsl4W4Y\nQbCRNAgpYzzck0wifIHwJ25lM39Ee+7MxZJmOxZlV2D2jM9EyLT0WwTNmBBf\n4FcvzCFlVnJHRrYd30wXC1V3jVSwpl2kRN+q8XrR2Zu43HhR+abk+mCxVM/l\nUSjl3nIuxe1JemHzuSHZ9gZbNN5pchq1YUzPYNj/qFimAQ0gThM5STUlHmPY\nl9YTujMixGxnU29J/VEd3C1lnJC0ioTwT5TjG/uM32OeHCsF2ehqgzfkmEGz\nfKEq\r\n=NC/m\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "ea18506833f5d5c76f91d348fd6b468ba41513b8",
+  "gypfile": true,
+  "homepage": "https://github.com/nathanjsweet/nodehun#readme",
+  "keywords": [
+    "spell",
+    "spellcheck",
+    "spellchecker",
+    "hunspell",
+    "spell check",
+    "spell checker",
+    "check"
+  ],
+  "license": "MIT",
+  "main": "build/Release/nodehun",
+  "maintainers": [
+    {
+      "name": "nathanjsweet",
+      "email": "nathanjsweet@gmail.com"
+    },
+    {
+      "name": "wulf",
+      "email": "hk12@live.ca"
+    }
+  ],
+  "name": "nodehun",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanjsweet/nodehun.git"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "test": "node test"
+  },
+  "version": "2.0.12"
+}
